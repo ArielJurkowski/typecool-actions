@@ -1,0 +1,60 @@
+{
+  "name": "typecool-actions",
+  "version": "1.0.0",
+  "description": "Typed, simple, composable, FSA compliant Action Creators for Redux.",
+  "author": {
+    "name": "Ariel Jurkowski",
+    "email": "arieljurkowski@gmail.com",
+    "url": "ttps://github.com/ArielJurkowski"
+  },
+  "homepage": "https://github.com/ArielJurkowski/tyecool-actions",
+  "repository": "https://github.com/ArielJurkowski/typecool-actions",
+  "bugs": {
+    "email": "arieljurkowski@gmail.com",
+    "url": "https://github.com/ArielJurkowski/typecool-actions"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace",
+    "build": "jest && tsc"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "24.0.18",
+    "@types/node": "12.7.2",
+    "flux-standard-action": "2.1.1",
+    "jest": "24.9.0",
+    "ts-jest": "24.0.2",
+    "typescript": "3.5.3"
+  },
+  "keywords": [
+    "typesafe",
+    "typescript",
+    "typed",
+    "type",
+    "actions",
+    "action",
+    "react",
+    "redux",
+    "cool",
+    "typecool",
+    "creators",
+    "creator",
+    "flux",
+    "standard",
+    "action",
+    "compliant",
+    "fsa",
+    "compose",
+    "composable",
+    "action-crator",
+    "action-crators",
+    "static-typed",
+    "static-typing",
+    "static",
+    "type-cool-actions",
+    "typecool-actions"
+  ]
+}
